@@ -1,8 +1,8 @@
 # testgrade
 
--A cross-platform mobile application developed using Flutter Framework, Dart
--Improved version of Examport
--Designed and developed the UI/UX for the application.
+- A cross-platform mobile application developed using Flutter Framework, Dart
+- Improved version of Examport
+- Designed and developed the UI/UX for the application.
 
 
 ## Getting Started
